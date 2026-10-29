@@ -73,7 +73,7 @@ Current rabbit holes:
 <a href="https://github.com/AldySan">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=AldySan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=9CA3AF&icon_color=67E8F9&ring_color=67E8F9&cache_seconds=21600"
+    src="https://github-stats-extended.vercel.app/api?username=AldySan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=9CA3AF&icon_color=67E8F9&ring_color=67E8F9&cache_seconds=21600"
     alt="GitHub Statistics"
   />
 </a>
@@ -91,7 +91,7 @@ Current rabbit holes:
 <a href="https://github.com/AldySan">
   <img
     height="140"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldySan&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=9CA3AF"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=AldySan&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=9CA3AF"
     alt="Most Used Programming Languages"
   />
 </a>
